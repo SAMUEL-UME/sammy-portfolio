@@ -9,11 +9,6 @@ const Navbar = () => {
           className={`fixed z-40 top-0 md:relatives bg-[#061417]/90 pb-3 md:bg-transparent w-full scroll:bg-black pt-[20px] px-[32px] md:py-[30px] lg:px-[80px]`}
         >
           <nav className={`flex items-center justify-between`}>
-            {/* <h2
-              className={`font-clashbold font-semibold text-[18px] md:text-[25px] leading-[]`}
-            >
-              VickyJay<span>.</span>
-            </h2> */}
             <NavLink to='/'>
               {({ isActive }) => (
                 <div
@@ -23,14 +18,14 @@ const Navbar = () => {
                       : 'text-white hover:before:w-full'
                   } relative`}
                 >
-                  VickyJay<span>!</span>
+                  Sammy<span>!</span>
                   <span>⚡</span>
                 </div>
               )}
             </NavLink>
             <div className='text-[#FFFFFF99] hover:text-white transition-all duration-300'>
               <a
-                href='https://www.github.com/victorola-coder'
+                href='https://www.github.com/samuel-ume'
                 target='_blank'
                 rel='noreferrer'
               >

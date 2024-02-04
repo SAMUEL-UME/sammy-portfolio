@@ -24,4 +24,4 @@ const App = () => {
 
 export default App;
 
-/*VickyJay Builds the Web!*/
+/*Sammy Builds the Web!*/

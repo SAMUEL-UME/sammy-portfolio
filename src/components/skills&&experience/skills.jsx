@@ -161,24 +161,6 @@ const Skills = () => {
                 // initial={{ opacity: 0, x: 300 }}
                 // transition={{ duration: 0.6 }}
                 // whileInView={{ opacity: 1, x: 0 }}
-                className='bg-gradient-to-r max-w-[369px] lg:max-w-[252px] to-[#C8C8C880] from-[#C5F4FF00] pr-0.5 pt-0.5'
-              >
-                <div
-                  className={`bg-[#0A1C20]  px-[20px] py-[23px] lg:h-[100px] lg:max-w-full lg:w-[250px] lg:px-[32px] lg:py-[35px]`}
-                >
-                  <p
-                    className={`text-white font-medium font-clash lg:text-[20px] lg:leading-[30.75px] `}
-                  >
-                    JQuery
-                  </p>
-                </div>
-              </motion.div>
-              <motion.div
-                whileHover={{ scale: 0.96 }}
-                // ref={sectionRef}
-                // initial={{ opacity: 0, x: 300 }}
-                // transition={{ duration: 0.6 }}
-                // whileInView={{ opacity: 1, x: 0 }}
                 className='bg-gradient-to-b max-w-[369px]  lg:max-w-[252px] to-[#C8C8C880] from-[#C5F4FF00] pb-0.5 pl-0.5'
               >
                 <div
@@ -230,6 +212,43 @@ const Skills = () => {
               <motion.div
                 whileHover={{ scale: 0.96 }}
                 // ref={sectionRef}
+                // initial={{ opacity: 0, x: 300 }}
+                // transition={{ duration: 0.6 }}
+                // whileInView={{ opacity: 1, x: 0 }}
+                className='bg-gradient-to-r max-w-[369px] lg:max-w-[252px] to-[#C8C8C880] from-[#C5F4FF00] pr-0.5 pt-0.5'
+              >
+                <div
+                  className={`bg-[#0A1C20]  px-[20px] py-[23px] lg:h-[100px] lg:max-w-full lg:w-[250px] lg:px-[32px] lg:py-[35px]`}
+                >
+                  <p
+                    className={`text-white font-medium font-clash lg:text-[20px] lg:leading-[30.75px] `}
+                  >
+                    NodeJs
+                  </p>
+                </div>
+              </motion.div>
+              
+              <motion.div
+                whileHover={{ scale: 0.96 }}
+                // ref={sectionRef}
+                // initial={{ opacity: 0, x: 300 }}
+                // transition={{ duration: 0.6 }}
+                // whileInView={{ opacity: 1, x: 0 }}
+                className='bg-gradient-to-r max-w-[369px] lg:max-w-[252px] to-[#C8C8C880] from-[#C5F4FF00] pr-0.5 pt-0.5'
+              >
+                <div
+                  className={`bg-[#0A1C20]  px-[20px] py-[23px] lg:h-[100px] lg:max-w-full lg:w-[250px] lg:px-[32px] lg:py-[35px]`}
+                >
+                  <p
+                    className={`text-white font-medium font-clash lg:text-[20px] lg:leading-[30.75px] `}
+                  >
+                   ExpressJs
+                  </p>
+                </div>
+              </motion.div>
+              <motion.div
+                whileHover={{ scale: 0.96 }}
+                // ref={sectionRef}
                 // initial={{ opacity: 0, y: -300 }}
                 // transition={{ duration: 0.6 }}
                 // whileInView={{ opacity: 1, y: 0 }}
@@ -269,24 +288,6 @@ const Skills = () => {
                 // initial={{ opacity: 0, y: -300 }}
                 // transition={{ duration: 0.6 }}
                 // whileInView={{ opacity: 1, y: 0 }}
-                className='bg-gradient-to-r max-w-[369px] lg:max-w-[252px] to-[#C8C8C880] from-[#C5F4FF00] pr-0.5 pt-0.5'
-              >
-                <div
-                  className={`bg-[#0A1C20]  px-[20px] py-[23px] lg:h-[100px] lg:max-w-full lg:w-[250px] lg:px-[32px] lg:py-[35px]`}
-                >
-                  <p
-                    className={`text-white font-medium font-clash lg:text-[20px] lg:leading-[30.75px] `}
-                  >
-                    Figma
-                  </p>
-                </div>
-              </motion.div>
-              <motion.div
-                whileHover={{ scale: 0.96 }}
-                // ref={sectionRef}
-                // initial={{ opacity: 0, y: -300 }}
-                // transition={{ duration: 0.6 }}
-                // whileInView={{ opacity: 1, y: 0 }}
                 className='bg-gradient-to-b max-w-[369px]  lg:max-w-[252px] to-[#C8C8C880] from-[#C5F4FF00] pb-0.5 pl-0.5'
               >
                 <div
@@ -295,7 +296,7 @@ const Skills = () => {
                   <p
                     className={`text-white font-medium font-clash lg:text-[20px] lg:leading-[30.75px] `}
                   >
-                    Photoshop
+                    Graphics
                   </p>
                 </div>
               </motion.div>

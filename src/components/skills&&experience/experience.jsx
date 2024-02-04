@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { ExpCircle } from "../../assets/Icons";
-import Resume from "../../utils/victor.pdf";
+import Resume from "../../utils/samuel.pdf";
 
 const Experience = () => {
   const handleDownload = () => {
@@ -173,7 +173,7 @@ const Experience = () => {
                 href={Resume}
                 onClick={handleDownload}
                 className="flex justify-center lg:flex lg:justify-start"
-                download="VickyJay.pdf"
+                download="Sammy.pdf"
                 rel="noopener noreferrer"
               >
                 <span className="cursor-pointer bg-gradient-to-r max-w-[197px] lg:max-w-[252px] to-[#D9D9D9] from-[#D9D9D900] py-0.5 pr-0.5">

@@ -16,12 +16,12 @@ const Footer = () => {
             />
           </span>
           <p className={`text-[#FFFFFF99] md:text-xl text-lg font-medium`}>
-            Victor Olatunji<span> {new Date().getFullYear()} </span>
+            Samuel Ume<span> {new Date().getFullYear()} </span>
           </p>
         </div>
         <div className="mt-[35px] md:mt-[65px] flex justify-start items-center  gap-[26px] md:gap-[40px]">
           <motion.a
-            href="https://web.facebook.com/victortoluu"
+            href="https://web.facebook.com/sam.oluwasegun.12/"
             target="_blank"
             rel="noreferrer"
             whileTap={{ scale: 1.1 }}
@@ -34,7 +34,7 @@ const Footer = () => {
             />
           </motion.a>
           <motion.a
-            href="https://twitter.com/HeyVickyJay"
+            href="https://twitter.com/ume7276"
             target="_blank"
             rel="noreferrer"
             whileTap={{ scale: 1.1 }}
@@ -47,20 +47,7 @@ const Footer = () => {
             />
           </motion.a>
           <motion.a
-            href="https://www.instagram.com/vickyjayox"
-            target="_blank"
-            rel="noreferrer"
-            whileTap={{ scale: 1.1 }}
-            whileHover={{ scale: 0.99 }}
-            className={`h-auto w-auto`}
-          >
-            <IgIcon
-              fill={`#FFFFFF99`}
-              className={`w-[30px] h-[30px] rounded-full border-[#FFFFFF99] border-solid border-[2px] p-0.5  transition-all duration-500 hover:bg-[#0a1c20]`}
-            />
-          </motion.a>
-          <motion.a
-            href="https://www.linkedin.com/in/victor-olatunji-889568246"
+            href="https://www.linkedin.com/in/samuel-ume-805b37258/"
             target="_blank"
             rel="noreferrer"
             whileTap={{ scale: 1.1 }}
