@@ -1,7 +1,7 @@
 import { Route, Routes } from "react-router-dom";
 import Home from "./Pages/Home";
 import ErrorPage from "./Pages/ErrorPage";
-import Test from "./Pages/test";
+import Test from "./Pages/Test";
 import { useEffect } from "react";
 import scroll from "./animation/scroll";
 
