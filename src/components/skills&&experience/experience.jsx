@@ -39,22 +39,22 @@ const Experience = () => {
 
               <div>
                 <h3 className="font-semibold text-white lg:text-[20px] lg:leading-[30px]  ">
-                  Web Developer <span>-</span> &nbsp;
+                  Web Developer Intructor <span>-</span> &nbsp;
                   <span className="italic text-[#FFFFFF99]">
-                    2023 - till date
+                    Aug 2022 - Nov 2022
                   </span>
                 </h3>
                 <p
                   className={`text-[#1ED760] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
                 >
-                  Showmeelove
+                  GbodoCares
                 </p>
                 <h5
                   className={`text-[#FFFFFF99] font-medium mt-[20px] max-w-[300px] md:max-w-md lg:mt-[19px] lg:max-w-[651px] lg:text-[18px] lg:leading-[27px]`}
                 >
-                  I work as a Lead Frontend Engineer at showmeelove, crafting
-                  thoughtful and inclusive experiences that adhere to web
-                  standards.
+                  Volunteered as a mentor to assist and provide guidance to
+                  student who were beginning their careers in Frontend
+                  Development.
                 </h5>
               </div>
             </div>
@@ -67,15 +67,15 @@ const Experience = () => {
 
               <div>
                 <h3 className="font-semibold text-white lg:text-[20px] lg:leading-[30px]  ">
-                  Web Developer <span>-</span>&nbsp;
+                  Frontend Engineer <span>-</span>&nbsp;
                   <span className="italic text-[#FFFFFF99]">
-                    2022 - till date
+                    Apr 2023 - June 2023
                   </span>
                 </h3>
                 <p
                   className={`text-[#1ED760] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
                 >
-                  Krubbs
+                  Guidient
                 </p>
                 <h5
                   className={`text-[#FFFFFF99] font-medium mt-[20px] max-w-[300px] md:max-w-md lg:mt-[19px] lg:max-w-[651px] lg:text-[18px] lg:leading-[27px]`}
@@ -95,16 +95,16 @@ const Experience = () => {
 
               <div>
                 <h3 className="font-semibold text-white lg:text-[20px] lg:leading-[30px]  ">
-                  Frontend Engineer&nbsp;
+                  Frontend Engineer &nbsp;
                   <span>-</span> &nbsp;
                   <span className="italic text-[#FFFFFF99]">
-                    2023 - till date
+                   Oct 2023 - Dec 2023
                   </span>
                 </h3>
                 <p
                   className={`text-[#1ED760] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
                 >
-                  TekArt
+                  Acepacific Bank
                 </p>
                 <h5
                   className={`text-[#FFFFFF99] font-medium mt-[20px] max-w-[300px] md:max-w-md lg:mt-[19px] lg:max-w-[651px] lg:text-[18px] lg:leading-[27px]`}
@@ -115,55 +115,8 @@ const Experience = () => {
                 </h5>
               </div>
             </div>
-            {/* <div className="flex gap-[28px] lg:gap-[48px]">
-              <div className="relative">
-                <span className="absolute -top-1 -translate-x-[55%] lg:translate-x-[-50%]">
-                  <ExpCircle />
-                </span>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-white lg:text-[20px] lg:leading-[30px]  ">
-                  Web Developer
-                </h3>
-                <p
-                  className={`text-[#1ED760] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
-                >
-                  Flowday
-                </p>
-                <h5
-                  className={`text-[#FFFFFF99] font-medium mt-[20px] max-w-[300px] md:max-w-md lg:mt-[19px] lg:max-w-[651px] lg:text-[18px] lg:leading-[27px]`}
-                >
-                  I work as a frontend developer integrating the figma design
-                  under a senior developer, I aced my skills of connecting
-                  frontend to backend.
-                </h5>
-              </div>
-            </div> */}
-            <div className="relative flex gap-[28px] lg:gap-[48px]">
-              <div className="relative">
-                <span className="absolute -top-1 -translate-x-[55%] lg:translate-x-[-50%]">
-                  <ExpCircle />
-                </span>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-white lg:text-[20px] lg:leading-[30px]  ">
-                  Web Developer
-                </h3>
-                <p
-                  className={`text-[#1ED760] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
-                >
-                  Edukarma
-                </p>
-                <h5
-                  className={`text-[#FFFFFF99] font-medium mt-[20px] max-w-[300px] md:max-w-md lg:mt-[19px] lg:max-w-[651px] lg:text-[18px] lg:leading-[27px]`}
-                >
-                  I work as a frontend developer building the system of the
-                  company, creating beautiful interfaces that user loves.
-                </h5>
-              </div>
-            </div>
+            
+            
             <motion.div
               className="max-w-[200px] mx-auto md:mx-0"
               whileHover={{ scale: 1.05 }}
