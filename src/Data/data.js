@@ -27,7 +27,13 @@ export const projectData = [
     name: 'AcePacific Bank',
     desc: 'Web banking made easier',
     lang: 'JavaScript +  Typescript + ReactJs + MUI + TailwindCss',
-    link: 'https://pear-gifted-alligator.cyclic.app/',
+    link: 'https://ace-pacific.vercel.app/',
+  },
+  {
+    name: 'Blogospot',
+    desc: 'A dummy template for a blog app',
+    lang: 'JavaScript +  Nextjs + TailwindCss',
+    link: 'https://blogospot-frontend.vercel.app/',
   },
 ];
 
