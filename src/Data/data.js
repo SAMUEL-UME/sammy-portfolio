@@ -6,6 +6,12 @@ export const projectData = [
     link: 'https://ace-pacific.vercel.app/',
   },
   {
+    name: 'Snappy',
+    desc: 'Designed and developed Snappy, a custom chat app for personal group chats...',
+    lang: 'ReactJs + NodeJs + ExpressJs + Bootstrap + MongoDB ',
+    link: 'https://snappy-frontend.onrender.com/',
+  },
+  {
     name: 'YelpCalmp',
     desc: 'A place to view all camping grounds close to you',
     lang: 'NodeJs + ExpressJs + Bootstrap + MongoDB + EJS',
@@ -81,11 +87,11 @@ export const skills = [
   },
   {
     id: 8,
-    title: 'ReactJs',
+    title: 'React.Js',
   },
   {
     id: 9,
-    title: 'NextJs',
+    title: 'Next.Js',
   },
   {
     id: 10,

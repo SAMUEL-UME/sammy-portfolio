@@ -32,7 +32,7 @@ const Skills = () => {
               <motion.div
                 whileHover={{ scale: 0.96 }}
                 ref={sectionRef}
-                initial={{ opacity: 0, x: -300 }}
+                initial={{ opacity: 0, x: -200 }}
                 transition={{ duration: 0.6 }}
                 whileInView={{ opacity: 1, x: 0 }}
                 className='bg-gradient-to-r max-w-[369px] lg:max-w-[252px] to-[#C8C8C880] from-[#C5F4FF00] pr-0.5 pt-0.5'
