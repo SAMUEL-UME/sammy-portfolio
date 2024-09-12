@@ -6,6 +6,12 @@ export const projectData = [
     link: 'https://ace-pacific.vercel.app/',
   },
   {
+    name: 'Blogospot',
+    desc: 'A dummy template for a blog app',
+    lang: 'JavaScript +  Nextjs + TailwindCss',
+    link: 'https://blogospot-frontend.vercel.app/',
+  },
+  {
     name: 'Snappy',
     desc: 'Designed and developed Snappy, a custom chat app for personal group chats...',
     lang: 'ReactJs + NodeJs + ExpressJs + Bootstrap + MongoDB ',
@@ -35,12 +41,7 @@ export const projectData = [
     lang: 'JavaScript + ReactJs + Html',
     link: 'https://pear-gifted-alligator.cyclic.app/',
   },
-  {
-    name: 'Blogospot',
-    desc: 'A dummy template for a blog app',
-    lang: 'JavaScript +  Nextjs + TailwindCss',
-    link: 'https://blogospot-frontend.vercel.app/',
-  },
+
 ];
 
 export const experienceData = [

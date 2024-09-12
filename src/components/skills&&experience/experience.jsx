@@ -30,7 +30,7 @@ const Experience = () => {
         <div className="flex flex-row relative z-[10000000000]  lg:justify-between mt-[30px]">
           <div className="w-0.5 h-[740px] bg-[#1ED7601A]"></div>
           <div className={`flex flex-col space-y-[60px]`}>
-            <div className="flex gap-[28px] lg:gap-[48px]">
+          <div className="flex gap-[28px] lg:gap-[48px]">
               <div className="relative">
                 <span className="absolute -top-1 -translate-x-[55%] lg:translate-x-[-50%]">
                   <ExpCircle />
@@ -39,26 +39,26 @@ const Experience = () => {
 
               <div>
                 <h3 className="font-semibold text-white lg:text-[20px] lg:leading-[30px]  ">
-                  Web Developer Intructor <span>-</span> &nbsp;
+                  Frontend Developer &nbsp;
+                  <span>-</span> &nbsp;
                   <span className="italic text-[#FFFFFF99]">
-                    Aug 2022 - Nov 2022
+                   Sep 2024- Present
                   </span>
                 </h3>
                 <p
                   className={`text-[#1ED760] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
                 >
-                  GbodoCares
+                 Das Gehirn Inc
                 </p>
                 <h5
                   className={`text-[#FFFFFF99] font-medium mt-[20px] max-w-[300px] md:max-w-md lg:mt-[19px] lg:max-w-[651px] lg:text-[18px] lg:leading-[27px]`}
                 >
-                  Volunteered as a mentor to assist and provide guidance to
-                  student who were beginning their careers in Frontend
-                  Development.
-                </h5>
+                As a frontend engineer, I handle all aspects of the frontend, from translating designs into functional code to ensuring performance and responsiveness.
+                 I work closely with teams to integrate the frontend with backend systems and deliver a seamless user experience.
+                 </h5>
               </div>
-            </div>
-            <div className="flex gap-[28px] lg:gap-[48px]">
+          </div>
+          <div className="flex gap-[28px] lg:gap-[48px]">
               <div className="relative">
                 <span className="absolute -top-1 -translate-x-[55%] lg:translate-x-[-50%]">
                   <ExpCircle />
@@ -67,26 +67,27 @@ const Experience = () => {
 
               <div>
                 <h3 className="font-semibold text-white lg:text-[20px] lg:leading-[30px]  ">
-                  Frontend Engineer <span>-</span>&nbsp;
+                  Frontend Developer &nbsp;
+                  <span>-</span> &nbsp;
                   <span className="italic text-[#FFFFFF99]">
-                    Apr 2023 - June 2023
+                   Jun 2024- Present
                   </span>
                 </h3>
                 <p
                   className={`text-[#1ED760] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
                 >
-                  Guidient
+                  OstroHub
                 </p>
                 <h5
                   className={`text-[#FFFFFF99] font-medium mt-[20px] max-w-[300px] md:max-w-md lg:mt-[19px] lg:max-w-[651px] lg:text-[18px] lg:leading-[27px]`}
                 >
-                  I work as a frontend developer with the responsibility of
-                  building and managing the websites with a team of Creative
-                  developers.
+                  I work as a frontend web developer, responsible for converting UI
+                  designs into functional code and managing the development and
+                  maintenance of websites alongside a team of creative developers.
                 </h5>
               </div>
-            </div>
-            <div className="flex gap-[28px] lg:gap-[48px]">
+          </div>
+          <div className="flex gap-[28px] lg:gap-[48px]">
               <div className="relative">
                 <span className="absolute -top-1 -translate-x-[55%] lg:translate-x-[-50%]">
                   <ExpCircle />
@@ -114,7 +115,64 @@ const Experience = () => {
                   developers.
                 </h5>
               </div>
-            </div>
+          </div>
+          <div className="flex gap-[28px] lg:gap-[48px]">
+              <div className="relative">
+                <span className="absolute -top-1 -translate-x-[55%] lg:translate-x-[-50%]">
+                  <ExpCircle />
+                </span>
+              </div>
+
+              <div>
+                <h3 className="font-semibold text-white lg:text-[20px] lg:leading-[30px]  ">
+                  Frontend Developer <span>-</span>&nbsp;
+                  <span className="italic text-[#FFFFFF99]">
+                    Apr 2023 - June 2023
+                  </span>
+                </h3>
+                <p
+                  className={`text-[#1ED760] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
+                >
+                  Guidient
+                </p>
+                <h5
+                  className={`text-[#FFFFFF99] font-medium mt-[20px] max-w-[300px] md:max-w-md lg:mt-[19px] lg:max-w-[651px] lg:text-[18px] lg:leading-[27px]`}
+                >
+                  I work as a frontend developer with the responsibility of
+                  building and managing the websites with a team of Creative
+                  developers.
+                </h5>
+              </div>
+          </div>
+          <div className="flex gap-[28px] lg:gap-[48px]">
+              <div className="relative">
+                <span className="absolute -top-1 -translate-x-[55%] lg:translate-x-[-50%]">
+                  <ExpCircle />
+                </span>
+              </div>
+
+              <div>
+                <h3 className="font-semibold text-white lg:text-[20px] lg:leading-[30px]  ">
+                  Web Developer Intructor <span>-</span> &nbsp;
+                  <span className="italic text-[#FFFFFF99]">
+                    Aug 2022 - Nov 2022
+                  </span>
+                </h3>
+                <p
+                  className={`text-[#1ED760] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
+                >
+                  GbodoCares
+                </p>
+                <h5
+                  className={`text-[#FFFFFF99] font-medium mt-[20px] max-w-[300px] md:max-w-md lg:mt-[19px] lg:max-w-[651px] lg:text-[18px] lg:leading-[27px]`}
+                >
+                  Volunteered as a mentor to assist and provide guidance to
+                  student who were beginning their careers in Frontend
+                  Development.
+                </h5>
+              </div>
+          </div>
+            
             
             
             <motion.div
