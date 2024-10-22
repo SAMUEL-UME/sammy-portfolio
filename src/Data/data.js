@@ -12,6 +12,12 @@ export const projectData = [
     link: 'https://blogospot-frontend.vercel.app/',
   },
   {
+    name: 'Shorty',
+    desc: 'Create short links, QR Codes, and Link-in-bio pages. Share them anywhere.Track what’s working, and what’s not',
+    lang: 'JavaScript + ReactJs + Html',
+    link: 'https://shorty-8jy8.onrender.com/',
+  },
+  {
     name: 'Snappy',
     desc: 'Designed and developed Snappy, a custom chat app for personal group chats...',
     lang: 'ReactJs + NodeJs + ExpressJs + Bootstrap + MongoDB ',
@@ -35,12 +41,7 @@ export const projectData = [
     lang: 'JavaScript + ReactJs + TailwindCss ',
     link: 'https://client-git-master-samuel-ume.vercel.app/',
   },
-  {
-    name: 'Shorty',
-    desc: 'Create short links, QR Codes, and Link-in-bio pages. Share them anywhere.Track what’s working, and what’s not',
-    lang: 'JavaScript + ReactJs + Html',
-    link: 'https://pear-gifted-alligator.cyclic.app/',
-  },
+  
 
 ];
 
