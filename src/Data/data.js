@@ -27,7 +27,7 @@ export const projectData = [
     name: 'YelpCalmp',
     desc: 'A place to view all camping grounds close to you',
     lang: 'NodeJs + ExpressJs + Bootstrap + MongoDB + EJS',
-    link: 'https://fine-erin-agouti-robe.cyclic.app/',
+    link: 'https://github.com/SAMUEL-UME/YelpCamp',
   },
   {
     name: 'Rick & Morty WiKi',
