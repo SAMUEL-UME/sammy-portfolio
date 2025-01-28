@@ -70,7 +70,7 @@ const Experience = () => {
                   Frontend Developer &nbsp;
                   <span>-</span> &nbsp;
                   <span className="italic text-[#FFFFFF99]">
-                   Jun 2024- Present
+                   Jun 2024 - Jan 2025
                   </span>
                 </h3>
                 <p
