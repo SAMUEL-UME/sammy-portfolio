@@ -41,7 +41,7 @@ const Experience = () => {
 									Frontend Developer &nbsp;
 									<span>-</span> &nbsp;
 									<span className="italic text-[#FFFFFF99]">
-										Sep 2024- Feb 2025
+										Sep 2024- Jun 2025
 									</span>
 								</h3>
 								<p
@@ -50,11 +50,10 @@ const Experience = () => {
 								</p>
 								<h5
 									className={`text-[#FFFFFF99] font-medium mt-[20px] max-w-[300px] md:max-w-md lg:mt-[19px] lg:max-w-[651px] lg:text-[18px] lg:leading-[27px]`}>
-									As a frontend engineer, I handle all aspects of the frontend,
-									from translating designs into functional code to ensuring
-									performance and responsiveness. I work closely with teams to
-									integrate the frontend with backend systems and deliver a
-									seamless user experience.
+									Reengineered legacy systems into a modular service oriented
+									architecture, improving maintainability, system reliability,
+									and data consistency while ensuring smooth migrations and
+									minimal downtime across multiple services.
 								</h5>
 							</div>
 						</div>
@@ -107,9 +106,10 @@ const Experience = () => {
 								</p>
 								<h5
 									className={`text-[#FFFFFF99] font-medium mt-[20px] max-w-[300px] md:max-w-md lg:mt-[19px] lg:max-w-[651px] lg:text-[18px] lg:leading-[27px]`}>
-									I work as a frontend developer with the responsibility of
-									building and managing the websites with a team of Creative
-									developers.
+									Built responsive fintech applications with secure API
+									integrations and state driven architectures, improving
+									usability, data consistency, and reliability while maintaining
+									high standards for sensitive financial data.
 								</h5>
 							</div>
 						</div>
@@ -133,9 +133,9 @@ const Experience = () => {
 								</p>
 								<h5
 									className={`text-[#FFFFFF99] font-medium mt-[20px] max-w-[300px] md:max-w-md lg:mt-[19px] lg:max-w-[651px] lg:text-[18px] lg:leading-[27px]`}>
-									I work as a frontend developer with the responsibility of
-									building and managing the websites with a team of Creative
-									developers.
+									Migrated application architecture to Next.js, improving
+									performance, SEO, scalability, and data consistency through
+									optimized frontend systems and seamless API integrations.
 								</h5>
 							</div>
 						</div>
@@ -170,7 +170,6 @@ const Experience = () => {
 							className="max-w-[200px] mx-auto md:mx-0"
 							whileHover={{ scale: 1.05 }}
 							whileTap={{ scale: 0.9 }}>
-					
 							<button
 								onClick={handleDownload}
 								className="flex justify-center lg:flex lg:justify-start">
