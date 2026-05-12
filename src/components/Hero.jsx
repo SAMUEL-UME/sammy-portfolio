@@ -12,13 +12,13 @@ const Hero = () => {
 							<h1
 							// className={`font-clashbold font-semibold text-[40px] leading-[36.9px] text-[#CFFAFF] md:leading-[4 5px] md:text-[35px] md:max-w-max lg:leading-[73.8px] lg:max-w-[580px] lg:text-[60px] `}
 							>
-								Creative Frontend Developer<span>.</span>
+								Creative Software Developer<span>.</span>
 							</h1>
 						</div>
 						<p
 							className={`gradientText font-medium font-pop text-[15px] text-[#FFFFFF99] max-w-[353px] mt-[45px] md:mt-8 lg:mt-1 md:max-w-[639px] md:text-[18px] leading-md:[27px]`}>
-							I like to craft solid and scalable frontend products with great
-							user experiences.
+							I build robust, scalable software products that balance clean
+							code, reliability, and exceptional user experiences.
 						</p>
 						<div
 							id="intro"
